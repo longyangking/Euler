@@ -1,2 +1,8 @@
-#Euler
-Mathematical Tool Library
+# Pug
+> Calculator and analyzer of stochastic process
+
+## Features
++ Stochastic differential equations
+
+## Status
+Working on it...
